@@ -2,7 +2,7 @@
 
 **RepoScout** is a fully functional mini version of GitHub built using the **MERN stack**. It helps developers quickly discover public repositories, explore trending projects by tech stack, and even clone them — all in a clean, distraction-free UI.
 
-🔗 [Live Demo](https://ayusherhjyuk.github.io/SnipURL/)
+🔗 [Live Demo](https://githubclone.onrender.com/)
 
 ---
 
