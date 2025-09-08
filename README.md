@@ -2,7 +2,7 @@
 
 **RepoScout** is a fully functional mini version of GitHub built using the **MERN stack**. It helps developers quickly discover public repositories, explore trending projects by tech stack, and even clone them — all in a clean, distraction-free UI.
 
-🔗 [Live Demo](https://githubclone.onrender.com/)
+🔗 
 
 ---
 
@@ -66,7 +66,7 @@
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/reposcout.git
+git clone https://github.com/Darshanchavan29/reposcout.git
 cd reposcout
 ```
 
@@ -132,10 +132,5 @@ You can deploy RepoScout on platforms like:
 
 ---
 
-## 👨‍💻 Author
 
-Built with ❤️ by **Ayush Jadhao**  
-📧 [ayushjadhao8804@gmail.com](mailto:ayushjadhao8804@gmail.com)
-
----
 
